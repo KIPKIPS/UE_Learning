@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BasicTraining.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6A387563-BA78-4EB6-AEB4-EEBB04EE3EB3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BasicTraining.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BasicTrainingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CE64852A-FD72-4B4F-A7DB-466C67E9326A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{ABEA8450-A89A-4A36-B640-FCF8A3D2BF48}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{11714C03-F9EA-482C-B281-AD1C3722FF57}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{31CE8B4B-2697-4770-8187-4A4862E98D8F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{EC14EECF-B125-47C2-963F-D3F416B77980}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{CA428476-7CFD-4D35-9C8D-B1B0310022B5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{8AF4AA9C-27E3-4DE7-B09C-741B3E5DF85B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{780BF5FE-05FB-4AF4-A63B-D86FFDBA14F8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{0CD5C32F-6066-4DCB-8FE6-F925272312B0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\BasicTraining">
+      <UniqueIdentifier>{1A23EB7D-AB80-448A-8298-B8324773C143}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BasicTraining\BasicTraining.Build.cs">
+      <Filter>Source\BasicTraining</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BasicTraining\BasicTraining.cpp">
+      <Filter>Source\BasicTraining</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicTraining\BasicTraining.h">
+      <Filter>Source\BasicTraining</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BasicTraining\BasicTrainingGameModeBase.cpp">
+      <Filter>Source\BasicTraining</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicTraining\BasicTrainingGameModeBase.h">
+      <Filter>Source\BasicTraining</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
