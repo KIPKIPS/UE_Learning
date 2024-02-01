@@ -861,3 +861,442 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.02.01-02.30.27:504][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2024.02.01-02.30.27:748][181]LogSlate: Window 'Editor Preferences' being destroyed
 [2024.02.01-02.30.27:789][181]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.02.01-02.32.03:913][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-02.32.06:242][ 35]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.01-02.32.12:747][401]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.01-02.33.55:560][508]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-02.33.55:597][508]LogSlate: Took 0.001277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.02.01-02.34.09:129][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.02.01-02.35.09:469][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-02.37.56:440][229]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D6BB541D-4EA3-3351-09FF-989D0FDD1430}
+[2024.02.01-02.41.45:330][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.02.01-02.41.45:912][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2024.02.01-02.41.46:445][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2024.02.01-02.41.48:913][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2024.02.01-02.42.47:814][599]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2024.02.01-02.55.41:685][880]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.01-02.56.19:199][462]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.01-02.56.28:136][651]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.02.01-02.56.28:144][651]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.02.01-02.56.36:955][944]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.02.01-02.57.14:802][689]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/BasicTraining.BasicTrainingGameMode'
+[2024.02.01-03.00.44:062][268]LogSlate: Window 'Project Settings' being destroyed
+[2024.02.01-03.00.44:070][268]LogSlate: Window 'Project Settings' being destroyed
+[2024.02.01-03.01.28:343][ 24]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.02.01-03.01.28:410][ 24]LogSlate: Took 0.001692 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2024.02.01-03.01.55:329][559]LogSlate: Window 'Tutorials' being destroyed
+[2024.02.01-03.02.07:359][182]LogUObjectGlobals: Warning: Failed to find object 'Object None.ActorDetails'
+[2024.02.01-03.02.18:376][810]LogSlate: Window 'Tutorials' being destroyed
+[2024.02.01-03.02.18:402][810]LogSlate: Window 'Tutorials' being destroyed
+[2024.02.01-03.02.52:267][721]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:57661).
+[2024.02.01-03.03.24:817][615]LogRenderer: Reallocating scene render targets to support 1616x1276 Format 10 NumSamples 1 (Frame:59194).
+[2024.02.01-03.03.41:529][608]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.01-03.06.02:561][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.12.23:033][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.02.01-03.12.23:111][876]LogSavePackage: Moving 'D:/GitHub/UE_Learning/BasicTraining/Saved/Minimal_Default_Auto1BB3EB0664018F4B7DC6258B378BB8AC9.tmp' to 'D:/GitHub/UE_Learning/BasicTraining/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2024.02.01-03.12.23:113][876]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.114
+[2024.02.01-03.12.23:114][876]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.114
+[2024.02.01-03.13.47:345][225]Cmd: STAT FPS
+[2024.02.01-03.15.15:929][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2024.02.01-03.16.07:043][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.02.01-03.16.07:177][972]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2024.02.01-03.16.52:210][670]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2024.02.01-03.20.26:491][683]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.20.27:890][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.20.27:974][768]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.01-03.20.27:977][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.01-03.20.27:978][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.01-03.20.27:978][768]PIE: New page: PIE session: Minimal_Default (Feb 1, 2024, 7:20:27 PM)
+[2024.02.01-03.20.27:979][768]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.02.01-03.20.27:980][768]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.01-03.20.27:983][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002646s)
+[2024.02.01-03.20.27:983][768]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.01-03.20.27:984][768]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2024.02.01-03.20.27:984][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003829s)
+[2024.02.01-03.20.28:009][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.02.01-03.20.28:026][768]LogInit: XAudio2 using '耳机 (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.02.01-03.20.28:048][768]LogInit: FAudioDevice initialized.
+[2024.02.01-03.20.28:055][768]LogLoad: Game class is 'GameModeBase'
+[2024.02.01-03.20.28:056][768]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.02.01-11.20.28
+[2024.02.01-03.20.28:056][768]LogWorld: Bringing up level for play took: 0.000721
+[2024.02.01-03.20.28:057][768]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2024.02.01-03.20.28:063][768]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.02.01-03.20.28:064][768]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.154
+[2024.02.01-03.20.28:064][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.01-03.20.47:182][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.20.50:177][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.01-03.20.50:177][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.01-03.20.50:177][789]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.02.01-03.20.50:177][789]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.01-03.20.50:212][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.01-03.20.50:212][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2024.02.01-03.20.50:239][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.01-03.20.50:242][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.02.01-03.20.50:280][793]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.02.01-03.21.13:140][960]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.21.16:510][165]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.22.36:144][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2024.02.01-03.22.41:545][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2024.02.01-03.23.13:671][638]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2024.02.01-03.23.13:688][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.23.18:144][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.02.01-03.23.21:230][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2024.02.01-03.23.48:380][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2024.02.01-03.24.23:489][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.24.34:597][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.24.45:831][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2024.02.01-03.25.27:845][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.25.27:929][883]Cmd: MODE GRID=0
+[2024.02.01-03.25.34:781][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2024.02.01-03.25.57:947][437]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.25.58:746][482]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2024.02.01-03.25.58:782][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.02.01-03.25.58:853][482]LogSavePackage: Moving 'D:/GitHub/UE_Learning/BasicTraining/Saved/Minimal_Default8C75DBC44B3E6B17560C258D3D488C5A.tmp' to 'D:/GitHub/UE_Learning/BasicTraining/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.02.01-03.25.58:862][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="D:/GitHub/UE_Learning/BasicTraining/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.02.01-03.25.58:891][482]LogSavePackage: Moving 'D:/GitHub/UE_Learning/BasicTraining/Saved/Minimal_Default_BuiltData9EDEEEB240F619E8B6FF2D9E40591FF6.tmp' to 'D:/GitHub/UE_Learning/BasicTraining/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.02.01-03.26.17:551][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2024.02.01-03.26.26:812][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.26.31:833][289]Cmd: TRANSACTION UNDO
+[2024.02.01-03.26.31:833][289]LogEditorTransaction: Undo Rotate Actors
+[2024.02.01-03.26.34:652][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.02.01-03.26.34:975][356]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2024.02.01-03.26.35:015][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.02.01-03.26.35:088][356]LogSavePackage: Moving 'D:/GitHub/UE_Learning/BasicTraining/Saved/Minimal_Default6924B599496947E6833781B6F8443064.tmp' to 'D:/GitHub/UE_Learning/BasicTraining/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.02.01-03.26.35:098][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="D:/GitHub/UE_Learning/BasicTraining/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.02.01-03.26.35:116][356]LogSavePackage: Moving 'D:/GitHub/UE_Learning/BasicTraining/Saved/Minimal_Default_BuiltData4F16FD1E4EA6CC943B899CBF412514C3.tmp' to 'D:/GitHub/UE_Learning/BasicTraining/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.02.01-03.33.09:327][923]LogActorFactory: Actor Factory created Cube
+[2024.02.01-03.33.11:312][ 36]LogActorFactory: Actor Factory created Cube
+[2024.02.01-03.33.14:518][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.33.21:855][647]Cmd: TRANSACTION UNDO
+[2024.02.01-03.33.21:855][647]LogEditorTransaction: Undo Rotate Actors
+[2024.02.01-03.33.23:018][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.33.38:269][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.02.01-03.33.38:819][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.02.01-03.33.48:051][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.33.48:243][205]LogActorFactory: Actor Factory created Cube
+[2024.02.01-03.33.48:734][234]LogActorFactory: Actor Factory created Cube
+[2024.02.01-03.33.54:237][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.34.02:064][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.34.08:439][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.34.08:521][124]Cmd: MODE GRID=1
+[2024.02.01-03.34.38:619][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.36.04:566][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.36.07:185][938]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.02.01-03.36.35:207][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.01-03.36.35:284][623]LogSavePackage: Moving 'D:/GitHub/UE_Learning/BasicTraining/Saved/Minimal_Default_Auto28B57B97E412E72B15BE109AC5648EE6C.tmp' to 'D:/GitHub/UE_Learning/BasicTraining/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2024.02.01-03.36.35:286][623]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.111
+[2024.02.01-03.36.35:286][623]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.111
+[2024.02.01-03.36.37:417][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.37.13:438][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.37.28:992][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.37.52:525][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.37.52:572][688]Cmd: MODE GRID=0
+[2024.02.01-03.38.11:592][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2024.02.01-03.38.12:509][876]Cmd: DELETE
+[2024.02.01-03.38.12:509][876]Cmd: ACTOR DELETE
+[2024.02.01-03.38.12:511][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.01-03.38.12:538][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.02.01-03.38.12:539][876]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.02.01-03.38.13:426][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.02.01-03.38.18:226][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.38.30:111][714]Cmd: TRANSACTION UNDO
+[2024.02.01-03.38.30:111][714]LogEditorTransaction: Undo Move Actors
+[2024.02.01-03.38.53:199][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.38.58:412][287]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2024.02.01-03.39.03:393][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.39.10:077][969]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.39.10:744][  8]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.39.11:527][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.39.14:027][201]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.39.14:611][235]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.39.16:194][327]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.39.24:379][817]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.39.24:927][849]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.39.25:411][877]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.39.25:878][904]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.39.28:378][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.40.09:879][186]Cmd: DELETE
+[2024.02.01-03.40.09:879][186]Cmd: ACTOR DELETE
+[2024.02.01-03.40.09:880][186]LogEditorActor: Deleted Actor: Brush
+[2024.02.01-03.40.09:912][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.02.01-03.40.09:913][186]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.02.01-03.40.17:644][622]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2024.02.01-03.40.27:045][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.40.40:295][953]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2024.02.01-03.40.47:446][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.41.34:597][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.44.47:884][115]LogSlate: Window 'Select Path' being destroyed
+[2024.02.01-03.45.26:555][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.45.29:866][780]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.02.01-03.45.32:771][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.46.36:422][387]LogEditorViewport: Clicking Background
+[2024.02.01-03.47.01:938][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.47.15:119][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.47.28:023][594]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.48.15:682][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.02.01-03.48.15:764][614]LogSavePackage: Moving 'D:/GitHub/UE_Learning/BasicTraining/Saved/Minimal_Default_Auto3AFEF23AE472838BFC63D938733991272.tmp' to 'D:/GitHub/UE_Learning/BasicTraining/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2024.02.01-03.48.15:766][614]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.114
+[2024.02.01-03.48.15:766][614]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.114
+[2024.02.01-03.48.35:309][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.48.38:723][869]Cmd: TRANSACTION UNDO
+[2024.02.01-03.48.38:723][869]LogEditorTransaction: Undo Clicking on Actors
+[2024.02.01-03.48.39:159][889]Cmd: TRANSACTION UNDO
+[2024.02.01-03.48.39:159][889]LogEditorTransaction: Undo Select Brush Surface
+[2024.02.01-03.48.39:822][929]Cmd: TRANSACTION UNDO
+[2024.02.01-03.48.39:822][929]LogEditorTransaction: Undo Set Material
+[2024.02.01-03.49.08:860][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.49.16:691][118]Cmd: TRANSACTION UNDO
+[2024.02.01-03.49.16:691][118]LogEditorTransaction: Undo Move Actors
+[2024.02.01-03.49.16:726][118]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2024.02.01-03.49.16:726][118]LogGeometryMode: Warning: Unable to resolve BoxBrush2_5 Brush in new BSP, see above
+[2024.02.01-03.49.16:726][118]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2024.02.01-03.49.56:992][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.50.08:191][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.50.10:549][566]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2024.02.01-03.50.29:418][611]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2024.02.01-03.50.41:346][314]Cmd: TRANSACTION UNDO
+[2024.02.01-03.50.41:346][314]LogEditorTransaction: Undo Rotate Actors
+[2024.02.01-03.50.41:381][314]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2024.02.01-03.50.41:381][314]LogGeometryMode: Warning: Unable to resolve BoxBrush2_5 Brush in new BSP, see above
+[2024.02.01-03.50.41:381][314]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2024.02.01-03.50.42:325][365]Cmd: TRANSACTION UNDO
+[2024.02.01-03.50.42:325][365]LogEditorTransaction: Undo Rotate Actors
+[2024.02.01-03.50.42:891][397]Cmd: TRANSACTION UNDO
+[2024.02.01-03.50.42:891][397]LogEditorTransaction: Undo Move Actors
+[2024.02.01-03.50.42:913][397]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2024.02.01-03.50.42:913][397]LogGeometryMode: Warning: Unable to resolve BoxBrush2_5 Brush in new BSP, see above
+[2024.02.01-03.50.42:913][397]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2024.02.01-03.50.46:561][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.50.57:527][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.51.15:919][346]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2024.02.01-03.52.02:819][ 99]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2024.02.01-03.52.08:101][394]Cmd: TRANSACTION UNDO
+[2024.02.01-03.52.08:101][394]LogEditorTransaction: Undo Move Actors
+[2024.02.01-03.52.08:132][394]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2024.02.01-03.52.08:132][394]LogGeometryMode: Warning: Unable to resolve BoxBrush2_5 Brush in new BSP, see above
+[2024.02.01-03.52.08:132][394]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2024.02.01-03.52.13:127][662]Cmd: TRANSACTION UNDO
+[2024.02.01-03.52.13:127][662]LogEditorTransaction: Undo Move Actors
+[2024.02.01-03.52.13:197][662]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2024.02.01-03.52.13:197][662]LogGeometryMode: Warning: Unable to resolve BoxBrush2_5 Brush in new BSP, see above
+[2024.02.01-03.52.13:197][662]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2024.02.01-03.52.13:622][682]Cmd: TRANSACTION UNDO
+[2024.02.01-03.52.13:622][682]LogEditorTransaction: Undo Modifier [Extrude]
+[2024.02.01-03.52.14:979][751]Cmd: TRANSACTION UNDO
+[2024.02.01-03.52.14:979][751]LogEditorTransaction: Undo Modifier [Extrude]
+[2024.02.01-03.52.15:016][751]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2024.02.01-03.52.15:017][751]LogGeometryMode: Warning: Unable to resolve BoxBrush2_5 Brush in new BSP, see above
+[2024.02.01-03.52.15:017][751]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2024.02.01-03.52.17:709][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.01-03.52.17:792][904]LogSavePackage: Moving 'D:/GitHub/UE_Learning/BasicTraining/Saved/Minimal_Default69F99D2E4995CBD5ADD9FCA2EEDB5353.tmp' to 'D:/GitHub/UE_Learning/BasicTraining/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.02.01-03.52.17:802][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="D:/GitHub/UE_Learning/BasicTraining/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.02.01-03.52.17:822][904]LogSavePackage: Moving 'D:/GitHub/UE_Learning/BasicTraining/Saved/Minimal_Default_BuiltData46CB86C44C42371655C61C8CCAF29C50.tmp' to 'D:/GitHub/UE_Learning/BasicTraining/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.02.01-03.53.59:067][473]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2024.02.01-03.54.00:149][536]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.01-03.54.00:350][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.54.01:335][606]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.01-03.54.02:483][674]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.01-03.54.04:670][806]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.01-03.55.28:186][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.56.59:229][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.57.18:719][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.57.29:118][161]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.01-03.57.55:678][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-03.58.42:204][541]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.01-03.59.52:120][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-04.02.17:840][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.02.01-04.02.17:920][880]LogSavePackage: Moving 'D:/GitHub/UE_Learning/BasicTraining/Saved/Minimal_Default_Auto462B3151D45D257BD1F040E8AC5DE672C.tmp' to 'D:/GitHub/UE_Learning/BasicTraining/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2024.02.01-04.02.17:923][880]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.111
+[2024.02.01-04.02.17:923][880]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.111
+[2024.02.01-04.48.52:899][155]LogHttp: Warning: 000001ACCB569580: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B203A57D3-4A15-A28D-DE25-949FA10AA278%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e06ab7b14c69aa113406608ec70b6ead%7C3a8ce50d75a94a64b681e6c1f8715d73%7C3db8fdad-c0c9-4e4b-a295-703a53a2b9d2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2024.02.01-04.48.52:900][155]LogHttp: Warning: 000001ACCB569580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.02.01-04.48.52:901][155]LogHttp: Warning: 000001ACCB569580: libcurl info message cache 0 (Connection 30 seems to be dead!)
+[2024.02.01-04.48.52:901][155]LogHttp: Warning: 000001ACCB569580: libcurl info message cache 1 (Closing connection 30)
+[2024.02.01-04.48.52:901][155]LogHttp: Warning: 000001ACCB569580: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.02.01-04.48.52:901][155]LogHttp: Warning: 000001ACCB569580: libcurl info message cache 3 (Closing connection 31)
+[2024.02.01-04.48.53:197][156]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B203A57D3-4A15-A28D-DE25-949FA10AA278%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e06ab7b14c69aa113406608ec70b6ead%7C3a8ce50d75a94a64b681e6c1f8715d73%7C3db8fdad-c0c9-4e4b-a295-703a53a2b9d2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.02.01-04.49.11:109][209]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2024.02.01-06.02.46:930][800]LogHttp: Warning: 000001ACC1A84F40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B203A57D3-4A15-A28D-DE25-949FA10AA278%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e06ab7b14c69aa113406608ec70b6ead%7C3a8ce50d75a94a64b681e6c1f8715d73%7C3db8fdad-c0c9-4e4b-a295-703a53a2b9d2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2024.02.01-06.02.46:930][800]LogHttp: Warning: 000001ACC1A84F40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.02.01-06.02.46:930][800]LogHttp: Warning: 000001ACC1A84F40: libcurl info message cache 0 (Connection 46 seems to be dead!)
+[2024.02.01-06.02.46:931][800]LogHttp: Warning: 000001ACC1A84F40: libcurl info message cache 1 (Closing connection 46)
+[2024.02.01-06.02.46:931][800]LogHttp: Warning: 000001ACC1A84F40: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.02.01-06.02.46:931][800]LogHttp: Warning: 000001ACC1A84F40: libcurl info message cache 3 (Closing connection 47)
+[2024.02.01-06.02.46:931][800]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B203A57D3-4A15-A28D-DE25-949FA10AA278%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e06ab7b14c69aa113406608ec70b6ead%7C3a8ce50d75a94a64b681e6c1f8715d73%7C3db8fdad-c0c9-4e4b-a295-703a53a2b9d2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.02.01-06.08.34:745][144]MapCheck: New page: Map Check
+[2024.02.01-06.08.34:766][144]Cmd: MAP REBUILD ALLVISIBLE
+[2024.02.01-06.08.34:767][144]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.02.01-06.08.34:818][144]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2024.02.01-06.08.34:825][144]LightingResults: New page: Lighting Build - Feb 1, 2024, 10:08:34 PM
+[2024.02.01-06.08.35:124][144]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.02.01-06.08.35:318][144]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.02.01-06.08.35:442][144]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.02.01-06.08.35:985][144]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.02.01-06.08.35:985][144]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7152
+[2024.02.01-06.08.55:802][144]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.02.01-06.08.55:802][144]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.02.01-06.08.55:802][144]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.02.01-06.08.55:802][144]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.02.01-06.08.55:802][144]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.02.01-06.08.55:802][144]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.02.01-06.08.56:119][144]LogEditorBuildUtils: Build time 0:21
+[2024.02.01-06.08.56:135][144]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2024.02.01-06.08.56:144][144]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2024.02.01-06.08.56:164][145]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2024.02.01-06.08.56:164][145]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2024.02.01-06.08.56:177][145]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2024.02.01-06.08.56:188][145]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2024.02.01-06.08.56:202][146]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 6
+[2024.02.01-06.08.56:202][146]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 5
+[2024.02.01-06.08.56:202][146]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 4
+[2024.02.01-06.08.56:202][146]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 3
+[2024.02.01-06.08.56:202][146]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 2
+[2024.02.01-06.08.56:202][146]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 1
+[2024.02.01-06.08.56:213][146]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2024.02.01-06.08.56:222][146]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2024.02.01-06.08.56:253][147]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2024.02.01-06.08.56:260][147]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2024.02.01-06.08.56:290][148]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2024.02.01-06.08.56:297][148]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2024.02.01-06.08.56:326][149]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2024.02.01-06.08.56:337][149]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2024.02.01-06.08.56:352][149]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 14
+[2024.02.01-06.08.56:352][149]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 13
+[2024.02.01-06.08.56:352][149]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 12
+[2024.02.01-06.08.56:352][149]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 11
+[2024.02.01-06.08.56:352][149]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 10
+[2024.02.01-06.08.56:352][149]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 9
+[2024.02.01-06.08.56:352][149]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 8
+[2024.02.01-06.08.56:352][149]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 7
+[2024.02.01-06.08.56:367][150]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2024.02.01-06.08.56:376][150]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2024.02.01-06.08.56:407][151]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2024.02.01-06.08.56:416][151]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 16
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 14
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 13
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 12
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 11
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 10
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 9
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 8
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 7
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 6
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 5
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 4
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 3
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 2
+[2024.02.01-06.08.57:809][152]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 1
+[2024.02.01-06.08.58:377][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.02.01-06.09.00:029][166]Job is a success!
+[2024.02.01-06.09.00:429][167]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2024.02.01-06.09.00:429][167]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.02.01-06.09.00:429][167]LogVolumetricLightmapImport:      BrickData 95x5x5 = 0.1Mb
+[2024.02.01-06.09.00:429][167]LogVolumetricLightmapImport:      Bricks at Level
+[2024.02.01-06.09.00:429][167]LogVolumetricLightmapImport:          0: 5.3% covering 100.0% of volume
+[2024.02.01-06.09.00:429][167]LogVolumetricLightmapImport:          1: 5.3% covering 1.6% of volume
+[2024.02.01-06.09.00:429][167]LogVolumetricLightmapImport:          2: 89.5% covering 0.4% of volume
+[2024.02.01-06.09.00:525][167]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2024.02.01-06.09.00:525][167]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2024.02.01-06.09.00:525][167]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2024.02.01-06.09.00:525][167]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 256X128)
+[2024.02.01-06.09.00:525][167]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2024.02.01-06.09.00:525][167]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2024.02.01-06.09.00:525][167]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2024.02.01-06.09.00:525][167]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2024.02.01-06.09.00:525][167]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2024.02.01-06.09.00:525][167]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2024.02.01-06.09.00:525][167]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 256X64)
+[2024.02.01-06.09.00:525][167]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2024.02.01-06.09.00:623][167]Lightmass on KIPSWANG-PC0: 1.70 sec total, 461 ms importing, 15 ms setup, 131 ms photons, 1.05 sec processing, 0 ms extra exporting [73/73 mappings]. Threads: 19.9 sec total, 1.11 sec processing.
+[2024.02.01-06.09.00:632][167]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2024.02.01-06.09.00:661][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.02.01-06.09.00:670][167]LogStaticLightingSystem: Illumination: 25.5 sec (47 ms encoding lightmaps, 21 ms encoding shadowmaps)
+[2024.02.01-06.09.00:670][167]LogStaticLightingSystem: Lightmap texture memory:  0.8 MB (0.7 MB streaming, 0.2 MB non-streaming), 6 textures
+[2024.02.01-06.09.00:670][167]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.2 MB streaming, 0.1 MB non-streaming), 3 textures
+[2024.02.01-06.09.00:812][167]DumpUnbuiltLightIteractions
+[2024.02.01-06.09.00:812][167]Lights with unbuilt interactions: 0
+[2024.02.01-06.09.00:812][167]
+[2024.02.01-06.09.00:812][167]Primitives with unbuilt interactions: 0
+[2024.02.01-06.09.00:882][168]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.02.01-06.09.00:882][168]MapCheck: New page: Minimal_Default - Feb 1, 2024, 10:09:00 PM
+[2024.02.01-06.09.00:882][168]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.464ms to complete.
+[2024.02.01-06.09.14:109][639]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2024.02.01-06.09.20:094][996]Cmd: TRANSACTION UNDO
+[2024.02.01-06.09.20:095][996]LogEditorTransaction: Undo Move Actors
+[2024.02.01-06.09.59:795][372]Cmd: TRANSACTION UNDO
+[2024.02.01-06.09.59:795][372]LogEditorTransaction: Undo Move Actors
+[2024.02.01-06.10.09:361][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.01-06.10.21:781][441]Cmd: TRANSACTION UNDO
+[2024.02.01-06.10.21:781][441]LogEditorTransaction: Undo Move Actors
+[2024.02.01-06.10.24:132][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.02.01-06.10.31:201][953]MapCheck: New page: Map Check
+[2024.02.01-06.10.31:219][953]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2024.02.01-06.10.31:222][953]Cmd: MAP REBUILD ALLVISIBLE
+[2024.02.01-06.10.31:222][953]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.02.01-06.10.31:284][953]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2024.02.01-06.10.31:290][953]LightingResults: New page: Lighting Build - Feb 1, 2024, 10:10:31 PM
+[2024.02.01-06.10.31:294][953]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.02.01-06.10.31:299][953]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.02.01-06.10.31:300][953]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.02.01-06.10.31:300][953]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.02.01-06.10.31:300][953]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7152
+[2024.02.01-06.10.36:737][953]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.02.01-06.10.36:738][953]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.02.01-06.10.36:738][953]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.02.01-06.10.36:738][953]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.02.01-06.10.36:738][953]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.02.01-06.10.36:738][953]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.02.01-06.10.36:945][953]LogEditorBuildUtils: Build time 0:05
+[2024.02.01-06.10.37:384][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.02.01-06.10.38:697][960]Job is a success!
+[2024.02.01-06.10.39:109][961]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2024.02.01-06.10.39:109][961]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.02.01-06.10.39:109][961]LogVolumetricLightmapImport:      BrickData 100x5x5 = 0.1Mb
+[2024.02.01-06.10.39:109][961]LogVolumetricLightmapImport:      Bricks at Level
+[2024.02.01-06.10.39:109][961]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2024.02.01-06.10.39:109][961]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2024.02.01-06.10.39:109][961]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2024.02.01-06.10.39:206][961]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2024.02.01-06.10.39:206][961]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2024.02.01-06.10.39:206][961]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2024.02.01-06.10.39:206][961]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2024.02.01-06.10.39:206][961]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2024.02.01-06.10.39:206][961]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2024.02.01-06.10.39:206][961]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2024.02.01-06.10.39:207][961]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2024.02.01-06.10.39:207][961]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2024.02.01-06.10.39:207][961]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2024.02.01-06.10.39:207][961]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X64)
+[2024.02.01-06.10.39:207][961]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X128)
+[2024.02.01-06.10.39:220][961]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2024.02.01-06.10.39:247][961]Lightmass on KIPSWANG-PC0: 1.41 sec total, 147 ms importing, 15 ms setup, 107 ms photons, 1.08 sec processing, 0 ms extra exporting [73/73 mappings]. Threads: 20.5 sec total, 1.11 sec processing.
+[2024.02.01-06.10.39:247][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.02.01-06.10.39:253][961]LogStaticLightingSystem: Illumination: 7.62 sec (51 ms encoding lightmaps, 17 ms encoding shadowmaps)
+[2024.02.01-06.10.39:253][961]LogStaticLightingSystem: Lightmap texture memory:  0.8 MB (0.7 MB streaming, 0.2 MB non-streaming), 6 textures
+[2024.02.01-06.10.39:253][961]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 3 textures
+[2024.02.01-06.10.39:724][961]DumpUnbuiltLightIteractions
+[2024.02.01-06.10.39:724][961]Lights with unbuilt interactions: 0
+[2024.02.01-06.10.39:724][961]
+[2024.02.01-06.10.39:724][961]Primitives with unbuilt interactions: 0
+[2024.02.01-06.10.39:784][962]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.02.01-06.10.39:784][962]MapCheck: New page: Minimal_Default - Feb 1, 2024, 10:10:39 PM
+[2024.02.01-06.10.39:784][962]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.351ms to complete.
+[2024.02.01-06.11.01:549][352]Cmd: TRANSACTION UNDO
+[2024.02.01-06.11.01:549][352]LogEditorTransaction: Undo Move Actors
+[2024.02.01-06.12.47:273][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.01-06.12.47:361][817]LogSavePackage: Moving 'D:/GitHub/UE_Learning/BasicTraining/Saved/Minimal_Default_Auto56629C933402BAB27EA776F9703E1AB37.tmp' to 'D:/GitHub/UE_Learning/BasicTraining/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2024.02.01-06.12.47:363][817]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.120
+[2024.02.01-06.12.47:363][817]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.120
+[2024.02.01-06.22.47:710][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.02.01-06.22.47:710][609]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.032
+[2024.02.01-06.32.48:437][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.01-06.32.48:437][400]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.031
+[2024.02.01-06.42.49:087][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.01-06.42.49:088][190]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.027
+[2024.02.01-06.52.49:544][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.01-06.52.49:545][980]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.027
+[2024.02.01-07.02.49:978][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.01-07.02.49:979][770]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.029
+[2024.02.01-07.12.50:550][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.01-07.12.50:550][560]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.029

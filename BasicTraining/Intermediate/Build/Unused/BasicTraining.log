@@ -1,0 +1,9 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\UE_Learning).
+  Parsing headers for BasicTrainingEditor
+    Running UnrealHeaderTool "D:\GitHub\UE_Learning\BasicTraining\BasicTraining.uproject" "D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\BasicTrainingEditor\Development\BasicTrainingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for BasicTrainingEditor in 4.4059196 seconds
+  Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 1 action with 20 processes...
+    [1/1] BasicTrainingEditor.target
+  Total time in Parallel executor: 0.18 seconds
+  Total execution time: 5.36 seconds
