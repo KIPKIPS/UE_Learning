@@ -1,0 +1,9 @@
+D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Development\BasicTraining\Definitions.BasicTraining.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GitHub\UE_Learning\BasicTraining\Source\BasicTraining/MyObject.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Inc\BasicTraining\MyObject.generated.h

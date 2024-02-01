@@ -1,3 +1,9 @@
 D:\GitHub\UE_Learning\BasicTraining\Source\BasicTraining\BasicTraining.Build.cs
+D:\GitHub\UE_Learning\BasicTraining\Plugins\Developer\RiderLink\Source\RD\RD.Build.cs
+D:\GitHub\UE_Learning\BasicTraining\Plugins\Developer\RiderLink\Source\RiderLink\RiderLink.Build.cs
+D:\GitHub\UE_Learning\BasicTraining\Plugins\Developer\RiderLink\Source\RiderGameControl\RiderGameControl.Build.cs
+D:\GitHub\UE_Learning\BasicTraining\Plugins\Developer\RiderLink\Source\RiderBlueprint\RiderBlueprint.Build.cs
+D:\GitHub\UE_Learning\BasicTraining\Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.Build.cs
+D:\GitHub\UE_Learning\BasicTraining\Plugins\Developer\RiderLink\Source\RiderLogging\RiderLogging.Build.cs
 D:\GitHub\UE_Learning\BasicTraining\Source\BasicTraining.Target.cs
 D:\GitHub\UE_Learning\BasicTraining\Source\BasicTrainingEditor.Target.cs
