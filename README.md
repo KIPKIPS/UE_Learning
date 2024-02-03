@@ -179,3 +179,5 @@ void UMyObject::MyFunction()
 * > 其他前缀为F 如FVector
 
 Shift + F1将鼠标从视口中进行释放
+
+在.cpp文件中引入头文件需要在 **#include "类名.h"** 之后添加,在.h文件中引入头文件需要在 **#include "类名.generated.h"** 之前引入

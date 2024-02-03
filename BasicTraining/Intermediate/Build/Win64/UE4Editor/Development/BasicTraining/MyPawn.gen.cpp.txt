@@ -1,0 +1,5 @@
+D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Development\BasicTraining\Definitions.BasicTraining.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GitHub\UE_Learning\BasicTraining\Source\BasicTraining/Pawns/MyPawn.h
+D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Inc\BasicTraining\MyPawn.generated.h

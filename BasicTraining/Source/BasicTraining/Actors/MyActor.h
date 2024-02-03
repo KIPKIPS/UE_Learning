@@ -15,8 +15,7 @@ public:
 	// Sets default values for this actor's properties
 	AMyActor();
 
-	UPROPERTY(VisibleAnywhere, Category="My Actor Component")
-	;
+	UPROPERTY(VisibleAnywhere, Category="My Actor Component");
 	UStaticMeshComponent* MyStaticMesh;
 
 	//只在实例上可以修改 在蓝图中不能修改

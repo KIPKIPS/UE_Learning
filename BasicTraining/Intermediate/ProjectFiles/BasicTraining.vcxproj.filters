@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BasicTraining.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D3870169-E29B-4858-9C6F-94C6F20F9205}</UniqueIdentifier>
+      <UniqueIdentifier>{B7D8FE78-6C2B-4DC0-A474-BD9073264B3C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BasicTraining.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{EF973AAB-B673-474C-A0EF-F1F057423847}</UniqueIdentifier>
+      <UniqueIdentifier>{B0301A9E-04F1-449D-A28E-0D9785C15C51}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\BasicTraining">
-      <UniqueIdentifier>{78075A77-5824-45FE-BCDE-A8F29B9D369C}</UniqueIdentifier>
+      <UniqueIdentifier>{839B8272-0B6F-4A69-B9B4-2A66D82E4372}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BasicTraining\BasicTraining.Build.cs">
       <Filter>Source\BasicTraining</Filter>
@@ -48,13 +48,22 @@
       <Filter>Source\BasicTraining</Filter>
     </ClInclude>
     <Filter Include="Source\BasicTraining\Actors">
-      <UniqueIdentifier>{8EC8CD57-6D10-4DDC-9D3C-F85F0C95AD9E}</UniqueIdentifier>
+      <UniqueIdentifier>{28A04999-EE97-4F0B-B405-46F3370CD1B4}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\BasicTraining\Actors\MyActor.cpp">
       <Filter>Source\BasicTraining\Actors</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\BasicTraining\Actors\MyActor.h">
       <Filter>Source\BasicTraining\Actors</Filter>
+    </ClInclude>
+    <Filter Include="Source\BasicTraining\Pawns">
+      <UniqueIdentifier>{B19364D8-F2FA-44DE-BF2C-827D0E1E8315}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BasicTraining\Pawns\MyPawn.cpp">
+      <Filter>Source\BasicTraining\Pawns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicTraining\Pawns\MyPawn.h">
+      <Filter>Source\BasicTraining\Pawns</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
