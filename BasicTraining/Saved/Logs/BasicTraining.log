@@ -1645,3 +1645,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.02.03-03.41.28:468][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.02.03-03.41.28:489][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
 [2024.02.03-03.41.28:514][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.02.03-03.51.25:152][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2024.02.03-03.51.25:165][388]LogSavePackage: Moving 'D:/GitHub/UE_Learning/BasicTraining/Saved/Minimal_Default_Auto4647F888B42B6D6991E90E284C04892A2.tmp' to 'D:/GitHub/UE_Learning/BasicTraining/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2024.02.03-03.51.25:166][388]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.053
+[2024.02.03-03.51.25:166][388]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
