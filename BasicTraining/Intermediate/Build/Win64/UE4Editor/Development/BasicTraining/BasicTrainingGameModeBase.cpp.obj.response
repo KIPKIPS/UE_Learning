@@ -37,8 +37,6 @@
 /I Runtime\CoreUObject\Public
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Inc\BasicTraining
-/I D:\GitHub\UE_Learning\BasicTraining\Source
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
@@ -233,6 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
+/I D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Inc\BasicTraining
+/I D:\GitHub\UE_Learning\BasicTraining\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BasicTraining.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FD7CFD3B-33D3-46D5-8174-0986575A8744}</UniqueIdentifier>
+      <UniqueIdentifier>{D3870169-E29B-4858-9C6F-94C6F20F9205}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BasicTraining.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{43B81A51-5B9A-4D89-A041-8345C883DAE2}</UniqueIdentifier>
+      <UniqueIdentifier>{EF973AAB-B673-474C-A0EF-F1F057423847}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\BasicTraining">
-      <UniqueIdentifier>{325FAAB3-03CB-49BF-9E9A-14F552A1C1FE}</UniqueIdentifier>
+      <UniqueIdentifier>{78075A77-5824-45FE-BCDE-A8F29B9D369C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BasicTraining\BasicTraining.Build.cs">
       <Filter>Source\BasicTraining</Filter>
@@ -41,17 +41,20 @@
     <ClInclude Include="..\..\Source\BasicTraining\BasicTrainingGameModeBase.h">
       <Filter>Source\BasicTraining</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\BasicTraining\MyClass.cpp">
-      <Filter>Source\BasicTraining</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\BasicTraining\MyClass.h">
-      <Filter>Source\BasicTraining</Filter>
-    </ClInclude>
     <ClCompile Include="..\..\Source\BasicTraining\MyObject.cpp">
       <Filter>Source\BasicTraining</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\BasicTraining\MyObject.h">
       <Filter>Source\BasicTraining</Filter>
+    </ClInclude>
+    <Filter Include="Source\BasicTraining\Actors">
+      <UniqueIdentifier>{8EC8CD57-6D10-4DDC-9D3C-F85F0C95AD9E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BasicTraining\Actors\MyActor.cpp">
+      <Filter>Source\BasicTraining\Actors</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicTraining\Actors\MyActor.h">
+      <Filter>Source\BasicTraining\Actors</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

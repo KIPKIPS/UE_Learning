@@ -32,13 +32,13 @@
 /wd4244
 /wd4838
 /I .
-/I D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Inc\BasicTraining
-/I D:\GitHub\UE_Learning\BasicTraining\Source
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
+/I Runtime\CoreUObject\Public
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
-/I Runtime\CoreUObject\Public
+/I D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Inc\BasicTraining
+/I D:\GitHub\UE_Learning\BasicTraining\Source
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public

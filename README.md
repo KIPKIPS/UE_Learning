@@ -168,3 +168,12 @@ void UMyObject::MyFunction()
 
 ## 5.Actor类与相关API
 
+一些约定俗成
+
+* > 派生自Actor的类带A前缀 AController
+* > 派生自Object的类带有U前缀 如UComponent
+* > Enums的前缀是E 如EFortificationType
+* > Interface的前缀为I 如IAbilitySystemInterface
+* > Template的前缀是T 如TArray
+* > 派生自SWidget的类(Slate UI)带有前缀S 如SButton
+* > 其他前缀为F 如FVector
