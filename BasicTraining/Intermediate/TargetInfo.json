@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BasicTraining",
+			"Path": "D:\\GitHub\\UE_Learning\\BasicTraining\\Source\\BasicTraining.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BasicTrainingEditor",
+			"Path": "D:\\GitHub\\UE_Learning\\BasicTraining\\Source\\BasicTrainingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

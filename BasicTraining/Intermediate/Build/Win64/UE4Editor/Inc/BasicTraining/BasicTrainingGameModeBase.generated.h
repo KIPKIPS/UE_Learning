@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -13,6 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BASICTRAINING_BasicTrainingGameModeBase_generated_h
 
+#define BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_SPARSE_DATA
 #define BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_RPC_WRAPPERS
 #define BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
 #define BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
@@ -20,7 +21,7 @@ private: \
 	static void StaticRegisterNativesABasicTrainingGameModeBase(); \
 	friend struct Z_Construct_UClass_ABasicTrainingGameModeBase_Statics; \
 public: \
-	DECLARE_CLASS(ABasicTrainingGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient), CASTCLASS_None, TEXT("/Script/BasicTraining"), NO_API) \
+	DECLARE_CLASS(ABasicTrainingGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/BasicTraining"), NO_API) \
 	DECLARE_SERIALIZER(ABasicTrainingGameModeBase)
 
 
@@ -29,7 +30,7 @@ private: \
 	static void StaticRegisterNativesABasicTrainingGameModeBase(); \
 	friend struct Z_Construct_UClass_ABasicTrainingGameModeBase_Statics; \
 public: \
-	DECLARE_CLASS(ABasicTrainingGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient), CASTCLASS_None, TEXT("/Script/BasicTraining"), NO_API) \
+	DECLARE_CLASS(ABasicTrainingGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/BasicTraining"), NO_API) \
 	DECLARE_SERIALIZER(ABasicTrainingGameModeBase)
 
 
@@ -38,7 +39,7 @@ public: \
 	NO_API ABasicTrainingGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABasicTrainingGameModeBase) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ABasicTrainingGameModeBase); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABasicTrainingGameModeBase); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABasicTrainingGameModeBase); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ABasicTrainingGameModeBase(ABasicTrainingGameModeBase&&); \
@@ -55,7 +56,7 @@ private: \
 	NO_API ABasicTrainingGameModeBase(const ABasicTrainingGameModeBase&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ABasicTrainingGameModeBase); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABasicTrainingGameModeBase); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABasicTrainingGameModeBase); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABasicTrainingGameModeBase)
 
 
@@ -65,6 +66,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABasicTrainingGameModeBase); \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_SPARSE_DATA \
 	BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_RPC_WRAPPERS \
 	BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_INCLASS \
 	BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_STANDARD_CONSTRUCTORS \
@@ -76,6 +78,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_SPARSE_DATA \
 	BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 	BasicTraining_Source_BasicTraining_BasicTrainingGameModeBase_h_15_ENHANCED_CONSTRUCTORS \

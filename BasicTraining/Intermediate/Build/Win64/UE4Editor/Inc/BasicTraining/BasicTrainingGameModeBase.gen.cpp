@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -52,18 +52,18 @@ void EmptyLinkFunctionForGeneratedCodeBasicTrainingGameModeBase() {}
 	};
 	const UE4CodeGen_Private::FClassParams Z_Construct_UClass_ABasicTrainingGameModeBase_Statics::ClassParams = {
 		&ABasicTrainingGameModeBase::StaticClass,
-		nullptr,
+		"Game",
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
 		nullptr,
 		nullptr,
-		ARRAY_COUNT(DependentSingletons),
+		UE_ARRAY_COUNT(DependentSingletons),
 		0,
 		0,
 		0,
-		0x009002A8u,
-		METADATA_PARAMS(Z_Construct_UClass_ABasicTrainingGameModeBase_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_ABasicTrainingGameModeBase_Statics::Class_MetaDataParams))
+		0x009002ACu,
+		METADATA_PARAMS(Z_Construct_UClass_ABasicTrainingGameModeBase_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_ABasicTrainingGameModeBase_Statics::Class_MetaDataParams))
 	};
 	UClass* Z_Construct_UClass_ABasicTrainingGameModeBase()
 	{
@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeBasicTrainingGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABasicTrainingGameModeBase, 4050159360);
+	IMPLEMENT_CLASS(ABasicTrainingGameModeBase, 3181590124);
 	template<> BASICTRAINING_API UClass* StaticClass<ABasicTrainingGameModeBase>()
 	{
 		return ABasicTrainingGameModeBase::StaticClass();

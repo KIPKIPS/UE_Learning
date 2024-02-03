@@ -87,3 +87,63 @@ AHUD AActor等A开头的派生自Actor类
 使用UCLASS宏标记AMyActor标明类,用UPROPERTY标明变量,使用UFUNCTION标明函数
 
 > _需要注意的是,所有的#include都要写在 **#include "MyActor.generated.h"** 之前_
+
+## 4.虚幻c++的一些宏定义
+
+### 4.1
+
+MyObject.h头文件
+
+```cpp
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "UObject/NoExportTypes.h"
+#include "MyObject.generated.h"
+
+//Blueprintable 支持创建蓝图类
+UCLASS(Blueprintable) 
+class BASICTRAINING_API UMyObject : public UObject
+{
+	GENERATED_BODY()
+
+public :
+	UMyObject();
+	//BlueprintReadWrite在蓝图中可以读写
+	//Category可以在蓝图可视化中进行分类
+	UPROPERTY(BlueprintReadWrite,Category="My Variables") 
+	float MyFloat;
+
+	//BlueprintCallable在蓝图中可以调用
+	UFUNCTION(BlueprintCallable,Category="My Functions") 
+	void MyFunction();
+};
+```
+
+MyObject.cpp
+
+```cpp
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#include "MyObject.h"
+//构造函数
+UMyObject::UMyObject()
+{
+	MyFloat = 0.0f;
+}
+
+void UMyObject::MyFunction()
+{
+	//UE控制台输出
+	UE_LOG(LogTemp,Log,TEXT("Hello Log"));
+	UE_LOG(LogTemp,Warning,TEXT("Hello Warning"));
+	UE_LOG(LogTemp,Error,TEXT("Hello Error"));
+}
+
+```
+
+之后就可以在蓝图中进行方法的调用
+
+![蓝图类的使用](/img/bp_1.png "蓝图基础使用")

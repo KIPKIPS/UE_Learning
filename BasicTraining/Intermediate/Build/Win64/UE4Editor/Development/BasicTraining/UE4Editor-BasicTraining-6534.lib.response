@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BasicTraining-6534.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\BasicTrainingEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Development\BasicTraining\BasicTraining.cpp.obj"
+"D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Development\BasicTraining\BasicTrainingGameModeBase.cpp.obj"
+"D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Development\BasicTraining\MyObject.cpp.obj"
+"D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Development\BasicTraining\BasicTraining.init.gen.cpp.obj"
+"D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Development\BasicTraining\BasicTrainingGameModeBase.gen.cpp.obj"
+"D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Development\BasicTraining\MyObject.gen.cpp.obj"
+"D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Development\BasicTraining\Default.rc2.res"
+/OUT:"D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Development\BasicTraining\UE4Editor-BasicTraining-6534.lib"

@@ -1,0 +1,2 @@
+D:\GitHub\UE_Learning\BasicTraining\Intermediate\Build\Win64\UE4Editor\Development\BasicTraining\Definitions.BasicTraining.h
+D:\GitHub\UE_Learning\BasicTraining\Source\BasicTraining\MyClass.h

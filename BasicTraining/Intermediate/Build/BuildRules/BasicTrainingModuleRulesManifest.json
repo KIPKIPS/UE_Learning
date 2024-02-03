@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\UE_Learning\\BasicTraining\\Source\\BasicTraining\\BasicTraining.Build.cs",
+		"D:\\GitHub\\UE_Learning\\BasicTraining\\Source\\BasicTraining.Target.cs",
+		"D:\\GitHub\\UE_Learning\\BasicTraining\\Source\\BasicTrainingEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

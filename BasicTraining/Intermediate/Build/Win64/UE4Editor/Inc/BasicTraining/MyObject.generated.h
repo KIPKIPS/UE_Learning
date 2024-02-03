@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -13,9 +13,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BASICTRAINING_MyObject_generated_h
 
-#define BasicTraining_Source_BasicTraining_MyObject_h_15_RPC_WRAPPERS
-#define BasicTraining_Source_BasicTraining_MyObject_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define BasicTraining_Source_BasicTraining_MyObject_h_15_INCLASS_NO_PURE_DECLS \
+#define BasicTraining_Source_BasicTraining_MyObject_h_16_SPARSE_DATA
+#define BasicTraining_Source_BasicTraining_MyObject_h_16_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execMyFunction);
+
+
+#define BasicTraining_Source_BasicTraining_MyObject_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execMyFunction);
+
+
+#define BasicTraining_Source_BasicTraining_MyObject_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUMyObject(); \
 	friend struct Z_Construct_UClass_UMyObject_Statics; \
@@ -24,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(UMyObject)
 
 
-#define BasicTraining_Source_BasicTraining_MyObject_h_15_INCLASS \
+#define BasicTraining_Source_BasicTraining_MyObject_h_16_INCLASS \
 private: \
 	static void StaticRegisterNativesUMyObject(); \
 	friend struct Z_Construct_UClass_UMyObject_Statics; \
@@ -33,12 +42,12 @@ public: \
 	DECLARE_SERIALIZER(UMyObject)
 
 
-#define BasicTraining_Source_BasicTraining_MyObject_h_15_STANDARD_CONSTRUCTORS \
+#define BasicTraining_Source_BasicTraining_MyObject_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API UMyObject(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	NO_API UMyObject(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMyObject) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMyObject); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMyObject); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMyObject); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UMyObject(UMyObject&&); \
@@ -46,39 +55,39 @@ private: \
 public:
 
 
-#define BasicTraining_Source_BasicTraining_MyObject_h_15_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API UMyObject(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+#define BasicTraining_Source_BasicTraining_MyObject_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UMyObject(UMyObject&&); \
 	NO_API UMyObject(const UMyObject&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMyObject); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMyObject); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMyObject)
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMyObject); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UMyObject)
 
 
-#define BasicTraining_Source_BasicTraining_MyObject_h_15_PRIVATE_PROPERTY_OFFSET
-#define BasicTraining_Source_BasicTraining_MyObject_h_12_PROLOG
-#define BasicTraining_Source_BasicTraining_MyObject_h_15_GENERATED_BODY_LEGACY \
+#define BasicTraining_Source_BasicTraining_MyObject_h_16_PRIVATE_PROPERTY_OFFSET
+#define BasicTraining_Source_BasicTraining_MyObject_h_13_PROLOG
+#define BasicTraining_Source_BasicTraining_MyObject_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BasicTraining_Source_BasicTraining_MyObject_h_15_PRIVATE_PROPERTY_OFFSET \
-	BasicTraining_Source_BasicTraining_MyObject_h_15_RPC_WRAPPERS \
-	BasicTraining_Source_BasicTraining_MyObject_h_15_INCLASS \
-	BasicTraining_Source_BasicTraining_MyObject_h_15_STANDARD_CONSTRUCTORS \
+	BasicTraining_Source_BasicTraining_MyObject_h_16_PRIVATE_PROPERTY_OFFSET \
+	BasicTraining_Source_BasicTraining_MyObject_h_16_SPARSE_DATA \
+	BasicTraining_Source_BasicTraining_MyObject_h_16_RPC_WRAPPERS \
+	BasicTraining_Source_BasicTraining_MyObject_h_16_INCLASS \
+	BasicTraining_Source_BasicTraining_MyObject_h_16_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define BasicTraining_Source_BasicTraining_MyObject_h_15_GENERATED_BODY \
+#define BasicTraining_Source_BasicTraining_MyObject_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BasicTraining_Source_BasicTraining_MyObject_h_15_PRIVATE_PROPERTY_OFFSET \
-	BasicTraining_Source_BasicTraining_MyObject_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	BasicTraining_Source_BasicTraining_MyObject_h_15_INCLASS_NO_PURE_DECLS \
-	BasicTraining_Source_BasicTraining_MyObject_h_15_ENHANCED_CONSTRUCTORS \
+	BasicTraining_Source_BasicTraining_MyObject_h_16_PRIVATE_PROPERTY_OFFSET \
+	BasicTraining_Source_BasicTraining_MyObject_h_16_SPARSE_DATA \
+	BasicTraining_Source_BasicTraining_MyObject_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	BasicTraining_Source_BasicTraining_MyObject_h_16_INCLASS_NO_PURE_DECLS \
+	BasicTraining_Source_BasicTraining_MyObject_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
