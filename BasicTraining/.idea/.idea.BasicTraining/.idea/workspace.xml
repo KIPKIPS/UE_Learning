@@ -8,118 +8,110 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58ad8f36-916e-4b8c-9dd3-d3581a6fea11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-2303.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/BP_MyActor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Materials/AxesMat.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Materials/Material_001.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Materials/XAxisMat.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Materials/YAxisMat.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Materials/ZAxisMat.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/AssetRegistryCache/d8fa80cc.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/MyActor.cpp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0016.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0016.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0016.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0016.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0884.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0884.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0884.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0884.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2303.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2303.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2303.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2303.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2683.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2683.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2683.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2683.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2760.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2760.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2760.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2760.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-5353.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-5353.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-5353.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-5353.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-6296.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-6296.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-6296.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-6296.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-8154.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-8154.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-8154.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-8154.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-9363.dll.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-9363.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-9363.lib.response" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-9363.suppressed.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Blueprints/BP_MyActor_Auto5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-5D6531E24CCFB363461FABAE0CD2BF08/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-D00C7118497159377B48159AC0C49AC2/CrashReportClient.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/BasicTraining-backup-2024.02.03-07.08.29.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/BasicTraining_2-backup-2024.02.03-02.46.21.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/BasicTraining/Actors/MyActor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/BasicTraining/Actors/MyActor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-0251.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-0469.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-1476.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-2773.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-3610.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-4229.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-4757.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-5224.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-5404.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-6894.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-7270.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-7505.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-8895.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-9021.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-9490.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Models/IcoSphere.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0251.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0251.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0251.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0251.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0469.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0469.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0469.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-0469.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-1476.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-1476.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-1476.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-1476.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2773.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2773.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2773.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-2773.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-3610.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-3610.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-3610.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-3610.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-4229.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-4229.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-4229.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-4229.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-4757.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-4757.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-4757.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-4757.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-5224.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-5224.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-5224.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-5224.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-5404.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-5404.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-5404.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-5404.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-6894.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-6894.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-6894.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-6894.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-7270.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-7270.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-7270.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-7270.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-7505.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-7505.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-7505.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-7505.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-8895.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-8895.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-8895.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-8895.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-9021.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-9021.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-9021.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-9021.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-9490.dll.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-9490.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-9490.lib.response" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-9490.suppressed.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Models/IcoSphere_Auto1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Models/IcoSphere_Auto2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Models/XYZAxes_Auto1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/ConsoleHistory.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BasicTraining/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BasicTraining/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicTraining.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/BasicTraining.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-0003.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-0012.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-0339.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-1841.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-1971.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-3679.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-4097.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-4762.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-4773.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-6534.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-7571.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining-8181.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor-BasicTraining.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_MyActor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_MyActor.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/StarterContent/Maps/Minimal_Default.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Maps/Minimal_Default.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/BasicTrainingEditor/Development/BasicTrainingEditor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/BasicTrainingEditor/Development/BasicTrainingEditor.uhtmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/BasicTrainingEditor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/BasicTrainingEditor/Development/DependencyCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/BasicTrainingEditor/Development/HotReload.state" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/BasicTrainingEditor/Development/HotReload.state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/BasicTrainingEditor/Development/Makefile.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/BasicTrainingEditor/Development/Makefile.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/BasicTrainingEditor/Development/Metadata-HotReload.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/BasicTrainingEditor/Development/Metadata-HotReload.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTraining.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTraining.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTraining.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTraining.cpp.obj.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTraining.init.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTraining.init.gen.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTraining.init.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTraining.init.gen.cpp.obj.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTrainingGameModeBase.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTrainingGameModeBase.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTrainingGameModeBase.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTrainingGameModeBase.cpp.obj.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTrainingGameModeBase.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTrainingGameModeBase.gen.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTrainingGameModeBase.gen.cpp.obj.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/BasicTrainingGameModeBase.gen.cpp.obj.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/Definitions.BasicTraining.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/Definitions.BasicTraining.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/Definitions.BasicTraining.h.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/Definitions.BasicTraining.h.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/MyObject.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/MyObject.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/MyObject.gen.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/MyObject.gen.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-1841.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-1841.dll.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-1841.lib.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining-1841.lib.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining.dll.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining.dll.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining.dll.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining.exp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining.lib.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining.lib.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining.lib.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining.lib.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining.suppressed.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/BasicTraining/UE4Editor-BasicTraining.suppressed.exp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/BasicTraining/BasicTraining.init.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/BasicTraining/BasicTraining.init.gen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/BasicTraining/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/BasicTraining/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/BasicTraining/MyActor.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/BasicTraining/MyActor.gen.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/BasicTraining.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/BasicTraining.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/BasicTraining.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/BasicTraining.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/BasicTraining.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/BasicTraining.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Editor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Editor.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/3944650773.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WorldState/3944650773.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/BasicTraining.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/BasicTraining.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Input.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Input.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/BasicTraining_2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/BasicTraining_2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/BasicTraining/Actors/MyActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BasicTraining/Actors/MyActor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/BasicTraining/Actors/MyActor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BasicTraining/Actors/MyActor.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -297,7 +289,7 @@
       <updated>1706928064742</updated>
       <workItem from="1706928066608" duration="333000" />
       <workItem from="1706928429816" duration="3733000" />
-      <workItem from="1706932743866" duration="3828000" />
+      <workItem from="1706932743866" duration="9208000" />
     </task>
     <servers />
   </component>
