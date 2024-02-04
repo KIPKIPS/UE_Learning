@@ -181,3 +181,22 @@ void UMyObject::MyFunction()
 Shift + F1将鼠标从视口中进行释放
 
 在.cpp文件中引入头文件需要在 **#include "类名.h"** 之后添加,在.h文件中引入头文件需要在 **#include "类名.generated.h"** 之前引入
+
+[官方API文档手册链接查询](https://docs.unrealengine.com/4.27/zh-CN/ProductionPipelines/DevelopmentSetup/ManagingGameCode/CppClassWizard/)
+
+## 6.UMG相关
+
+### 6.1 概述
+
+UMG：虚幻动态图形UI设计器。是一款视觉UI创作工具。可用于创作想要呈现给用户的UI元素。
+* UMG 的核心是控件，即用于构成界面的一系列预先制作的功能（比如按钮、复选框、滑块、进度条等）。
+* 这些控件在专门的控件蓝图中进行编辑，编辑时将用到两个选项卡进行构建：设计器选项卡实现界面的视觉布局，而图形选项卡则实现使用控件时提供的功能。
+
+### 6.2 UMG基础控件
+
+#### 6.2.1 Slot组件:
+
+渲染顺序:Hierarchy面板的层级 < Slot组件的ZOrder属性
+
+即各个UI控件上的Slot组件的ZOrder属性不相等时,值约大,越后渲染即ZOrder值大的会覆盖ZOrder值小的,ZOrder值相等时,Hierarchy面板中越下方的越后渲染
+
