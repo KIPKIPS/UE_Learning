@@ -20,16 +20,32 @@ public:
 	class UStaticMeshComponent* MyStaticMesh;
 
 	UPROPERTY(VisibleAnywhere, Category="My Pawn Component");
+	class USpringArmComponent* MySpringArm;
+	
+	UPROPERTY(VisibleAnywhere, Category="My Pawn Component");
 	class UCameraComponent* MyCamera;
+
 
 	UPROPERTY(EditAnywhere, Category="My Pawn Movement");
 	float MaxSpeed;
 	// UPROPERTY(EditAnywhere, Category="My Pawn Movement");
 	// float MaxSpeed;
+	FORCEINLINE UStaticMeshComponent* GetStaticMeshComponent()
+	{
+		return MyStaticMesh;
+	}
+	FORCEINLINE USpringArmComponent* GetSpringArmComponent()
+	{
+		return MySpringArm;
+	}
 private:
 	void MoveForward(float Value);
 	void MoveRight(float Value);
 	FVector Velocity;
+
+	void LookUp(float Value);
+	void LookRight(float Value);
+	FVector2D MouseInput;
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
